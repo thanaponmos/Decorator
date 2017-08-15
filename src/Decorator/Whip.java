@@ -2,9 +2,8 @@ package Decorator;
 
 public class Whip extends CondimentDecorator {
 
-	
+
      Beverage beverage;
-	
 	public Whip(Beverage beverae){
 		this.beverage = beverae;
 	}
