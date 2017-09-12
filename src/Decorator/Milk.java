@@ -4,7 +4,7 @@ public class Milk extends CondimentDecorator {
       Beverage beverage;
 	
 	public Milk(Beverage beverage){
-		this.beverage = beverage;
+		 this.beverage = beverage;
 	}
 	
 	@Override
